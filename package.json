@@ -28,7 +28,7 @@
     "mocha": "5",
     "nock": "^9.2.5",
     "nyc": "11",
-    "ts-node": "5",
+    "ts-node": "^6.0.2",
     "tslib": "1",
     "tslint": "5",
     "typescript": "2.8"
